@@ -5,7 +5,7 @@ class Chaud < Formula
   desc "CLI for managing git worktrees with Claude Code integration"
   homepage "https://github.com/Lucky9-Labs/chaud"
   url "https://github.com/Lucky9-Labs/chaud/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "ccbafed92fee534303ea0fa95cb5bfafe36493f66dad398aacee280a940dd218"
+  sha256 "bf8ed91269e1941799d381989e91f86813493f50348509788dbf473aa05368a4"
   license "MIT"
   head "https://github.com/Lucky9-Labs/chaud.git", branch: "main"
 
